@@ -1,4 +1,4 @@
-(*zadanie 1 *)
+1(*zadanie 1 *)
 (*podpunkt a*)
 
 module type Point = sig  
